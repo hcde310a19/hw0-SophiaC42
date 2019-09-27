@@ -1,3 +1,17 @@
 # Description of your program (part 7)
 
+This is an explanation of how to count words in a document. 
+A word is a character or group of characters seperated by a space from other character.
+Start at the top left of the document. Go left to right along the line, counting up all the words.
+when finished with the line, go to the next line, and go back to the far left of the new line.
+continue the count of words in that line. coninue going line by line counting words until there are no 
+more lines. You have now counted all the words in the document
+
 # Reflection on writing your program (part 8)
+
+I feel fine with writing up a program. It feels weird to be writing it in english, because I kept thinking 
+in for-loops and while loops. It usually isnt the coding ideation thats difficult for me.
+in Hw0, my real difficulty was in understanding what I need to download, and how the new environments work.
+I needed to go to Jae's office hours to get help, but honestly I'm still not sure I understand powershell and gethub. 
+
+
